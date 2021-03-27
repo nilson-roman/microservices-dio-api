@@ -6,6 +6,7 @@ Projeto prático para desenvolver uma solução de e-commerce com a arquitetura 
 
 
 #### Links do Projeto Original:
-https://github.com/hatanakadaniel/ecommerce-checkout-api
-https://github.com/hatanakadaniel/ecommerce-payment-api
-https://github.com/hatanakadaniel/ecommerce-checkout-frontend
+
+- https://github.com/hatanakadaniel/ecommerce-checkout-api
+- https://github.com/hatanakadaniel/ecommerce-payment-api
+- https://github.com/hatanakadaniel/ecommerce-checkout-frontend
